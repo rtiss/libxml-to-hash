@@ -18,6 +18,8 @@ require 'xml/libxml'
 # Usage: LibXmlNode.new("karin", "zak")
 
 class LibXmlNode < Object
+  VERSION = '0.3.0'
+
   attr_accessor :subnodes
   attr_accessor :attributes
   attr_accessor :text

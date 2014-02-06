@@ -1,6 +1,6 @@
 # -*- encoding : utf-8 -*-
 require "test/unit"
-require "./lib/libxml_to_hash.rb"
+require "./lib/rtiss_libxml_to_hash.rb"
 
 class LibXmlToHashTest < Test::Unit::TestCase
   def test_tiss_xml_node_class
