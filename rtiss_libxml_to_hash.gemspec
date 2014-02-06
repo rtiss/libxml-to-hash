@@ -13,7 +13,7 @@ is much faster than ReXML) to convert a XML string into a Hash"
 
   s.authors     = ["Johannes Thoma"]
   s.email       = 'johannes.thoma@gmx.at'
-  s.homepage    = 'https://github.com/rtiss/libxml-to-hash'
+  s.homepage    = 'https://github.com/rtiss/rtiss_libxml-to-hash'
   s.add_dependency("libxml-ruby")
 
   s.require_paths = %w[lib]
